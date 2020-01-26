@@ -47,7 +47,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(26).pdf" style="text-decoration:none;">Toward machine-guided design of proteins</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(27).pdf" style="text-decoration:none;">Deep Semantic Protein Representation for Annotation, Discovery, and Engineering</a></b></li>
    
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(28).pdf" style="text-decoration:none;">Detecting Protein-Protein Interactions with a Novel Matrix-Based Protein Sequence Representation and Support Vector Machines</a></b></li>
 
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(29).pdf" style="text-decoration:none;"> Modeling the Language of Life - Deep Learning Protein Sequences</a></b></li>                              
@@ -82,6 +82,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(48).pdf" style="text-decoration:none;">Improved Descriptors for the Quantitative Structure−Activity Relationship Modeling of Peptides and Proteins</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(49).pdf" style="text-decoration:none;">Mismatch string kernels for discriminative protein classification</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(50).pdf" style="text-decoration:none;">AOPs-SVM: A Sequence-Based Classifier of Antioxidant Proteins Using a Support Vector Machine</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(51).pdf" style="text-decoration:none;">A structural alignment kernel for protein structures</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(52).pdf" style="text-decoration:none;">Predicting and understanding transcription factor interactions based on sequence level determinants of combinatorial control</a></b></li>
@@ -154,6 +156,8 @@ Protein Interaction</a></b></li>
  
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(85).pdf" style="text-decoration:none;">DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(86).pdf" style="text-decoration:none;">Machine Learning Methods for Protein Structure Prediction</a></b></li>
 
  
  
