@@ -2,151 +2,164 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(1).pdf" style="text-decoration:none;">Quantum algorithms for supervised and unsupervised machine learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(1).pdf" style="text-decoration:none;">Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(2).pdf" style="text-decoration:none;">Understanding Machine-learned Density Functionals</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(2).pdf" style="text-decoration:none;">Protein Secondary Structure Prediction with Long Short Term Memory Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(3).pdf" style="text-decoration:none;">Tensor Networks for Big Data Analytics and Large-Scale Optimization Problems</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(4).pdf" style="text-decoration:none;">An exact mapping between the Variational Renormalization Group and Deep Learning</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(5).pdf" style="text-decoration:none;">Automated Search for new Quantum Experiments</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(6).pdf" style="text-decoration:none;">Quantum gate learning in qubit networks: Toffoli gate without time dependent control</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(7).pdf" style="text-decoration:none;">Quantum Boltzmann Machine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(3).pdf" style="text-decoration:none;">Predicting changes in protein thermostability brought about by single- or multi-site mutations</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(4).pdf" style="text-decoration:none;">NeEMO: a method using residue interaction networks to improve prediction of protein stability upon mutation</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(5).pdf" style="text-decoration:none;">Engineering proteinase K using machine learning and synthetic genes</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(6).pdf" style="text-decoration:none;">Distributed Representations for Biological Sequence Analysis</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(7).pdf" style="text-decoration:none;">dna2vec: Consistent vector representations of variable-length k-mers</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(8).pdf" style="text-decoration:none;"> Machine learning phases of matter </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(9).pdf" style="text-decoration:none;">Exponential Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(8).pdf" style="text-decoration:none;"> Atomic Convolutional Networks for Predicting Protein-Ligand Binding Affinity </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(9).pdf" style="text-decoration:none;">Variational auto-encoding of protein sequences</a></b></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(10).pdf" style="text-decoration:none;">Supervised Learning With Quantum-Inspired Tensor Networks </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(11).pdf" style="text-decoration:none;">Discovering Phase Transitions with Unsupervised Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(12).pdf" style="text-decoration:none;">Solving the Quantum Many-Body Problem with Artificial Neural Networks</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(13).pdf" style="text-decoration:none;">Learning Thermodynamics with Boltzmann Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(10).pdf" style="text-decoration:none;">Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(11).pdf" style="text-decoration:none;">End-to-End Learning on 3D Protein Structure for Interface Prediction</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(12).pdf" style="text-decoration:none;">Design by adaptive sampling</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(13).pdf" style="text-decoration:none;">Distance-based Protein Folding Powered by Deep Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(14).pdf" style="text-decoration:none;">Machine learning quantum phases of matter beyond the fermion sign problem</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(14).pdf" style="text-decoration:none;">Conditioning by adaptive sampling for robust design</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(15).pdf" style="text-decoration:none;">Why does deep and cheap learning work so well?</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(15).pdf" style="text-decoration:none;">Learning protein sequence embeddings using information from structure</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(16).pdf" style="text-decoration:none;">Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(16).pdf" style="text-decoration:none;">How to Hallucinate Functional Proteins</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(17).pdf" style="text-decoration:none;">Machine Learning Phases of Strongly Correlated Fermions</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(17).pdf" style="text-decoration:none;">Batched Stochastic Bayesian Optimization via Combinatorial Constraints Design</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(18).pdf" style="text-decoration:none;">By-passing the Kohn-Sham equations with machine learning</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(18).pdf" style="text-decoration:none;">Leveraging binding-site structure for drug discovery with point-cloud methods</a></b></li> 
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(19).pdf" style="text-decoration:none;">Pure density functional for strong correlations and the thermodynamic limit from machine learning</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(19).pdf" style="text-decoration:none;">Evaluating Protein Transfer Learning with TAPE</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(20).pdf" style="text-decoration:none;">Machine learning topological states</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(20).pdf" style="text-decoration:none;">Iterative Peptide Modeling With Active Learning And Meta-Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(21).pdf" style="text-decoration:none;">Learning phase transitions by confusion</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(22).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(23).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(21).pdf" style="text-decoration:none;">Protein Sequence Design with a Learned Potential</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(22).pdf" style="text-decoration:none;">Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(23).pdf" style="text-decoration:none;">Generative Modeling for Protein Structures</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(24).pdf" style="text-decoration:none;">A Neural Decoder for Topological Codes</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(24).pdf" style="text-decoration:none;">Machine learning-assisted directed protein evolution with combinatorial libraries</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(25).pdf" style="text-decoration:none;">Quantum Loop Topography for Machine Learning</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(26).pdf" style="text-decoration:none;">Sampling algorithms for validation of supervised learning models for Ising-like systems</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(27).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(25).pdf" style="text-decoration:none;">Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(26).pdf" style="text-decoration:none;">Toward machine-guided design of proteins</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(27).pdf" style="text-decoration:none;">Deep Semantic Protein Representation for Annotation, Discovery, and Engineering</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(28).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method in Fermion Systems</a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(29).pdf" style="text-decoration:none;">Tomography and Generative Data Modeling via Quantum Boltzmann Training</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(30).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(31).pdf" style="text-decoration:none;">Restricted Boltzmann Machines for the Long Range Ising Models</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(32).pdf" style="text-decoration:none;">Equivalence of restricted Boltzmann machines and tensor network states</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(29).pdf" style="text-decoration:none;"> Modeling the Language of Life - Deep Learning Protein Sequences</a></b></li>                              
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(33).pdf" style="text-decoration:none;">Quantum Entanglement in Neural Network States</a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(30).pdf" style="text-decoration:none;">Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(31).pdf" style="text-decoration:none;">UDSMProt: Universal Deep Sequence Models for Protein Classification</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(32).pdf" style="text-decoration:none;">DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(34).pdf" style="text-decoration:none;">Efficient Representation of Quantum Many-body States with Deep Neural Networks</a></b></li> 
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(35).pdf" style="text-decoration:none;">Neural network representation of tensor network and chiral states</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(33).pdf" style="text-decoration:none;">Machine Learning for Prioritization of Thermostabilizing Mutations for G-protein Coupled Receptors</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(36).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(34).pdf" style="text-decoration:none;">Improving protein function prediction with synthetic feature samples created by generative adversarial networks</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(38).pdf" style="text-decoration:none;">Neural-network quantum state tomography for many-body systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(39).pdf" style="text-decoration:none;">Experimental Quantum Hamiltonian Learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(40).pdf" style="text-decoration:none;">Discovering Phases, Phase Transitions and Crossovers through Unsupervised Machine Learning: A critical examination</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(41).pdf" style="text-decoration:none;">Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(42).pdf" style="text-decoration:none;">Probing many-body localization with neural networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(35).pdf" style="text-decoration:none;">Augmenting protein network embeddings with sequence information</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(36).pdf" style="text-decoration:none;">DeepCLIP: Predicting the effect of mutations on protein-RNA binding with Deep Learning</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(43).pdf" style="text-decoration:none;">Approximating quantum many-body wave-functions using artificial neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(44).pdf" style="text-decoration:none;">Deterministic Quantum Annealing Expectation-Maximization Algorithm</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(45).pdf" style="text-decoration:none;">Kernel methods for interpretable machine learning of order parameters</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(37).pdf" style="text-decoration:none;">Accelerating Protein Design Using Autoregressive Generative Models</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(38).pdf" style="text-decoration:none;">De Novo Protein Design for Novel Folds using Guided Conditional Wasserstein Generative Adversarial Networks (gcWGAN)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(39).pdf" style="text-decoration:none;">Structure-Based Function Prediction using Graph Convolutional Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(40).pdf" style="text-decoration:none;">Expanding functional protein sequence space using generative adversarial networks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(41).pdf" style="text-decoration:none;">USMPep: Universal Sequence Models for Major Histocompatibility Complex Binding Affinity Prediction</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(42).pdf" style="text-decoration:none;">Attention mechanism-based deep learning pan-specific model for interpretable MHC-I peptide binding prediction</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(43).pdf" style="text-decoration:none;">Improved protein structure prediction using predicted inter-residue orientations</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(44).pdf" style="text-decoration:none;">Machine Learning Predicts New Anti-CRISPR Proteins</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(45).pdf" style="text-decoration:none;">Transformer neural network for protein specific de novo drug generation as machine translation problem</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(46).pdf" style="text-decoration:none;">Mutual Information, Neural Networks and the Renormalization Group</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(46).pdf" style="text-decoration:none;">End-to-end multitask learning, from protein language to protein features without alignments</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(47).pdf" style="text-decoration:none;">Nonequilibrium Thermodynamics of Restricted Boltzmann Machines</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(48).pdf" style="text-decoration:none;">Reinforcement Learning in Different Phases of Quantum Control</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(47).pdf" style="text-decoration:none;">Interpreting mutational effects predictions, one substitution at a time</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(48).pdf" style="text-decoration:none;">Improved Descriptors for the Quantitative Structure−Activity Relationship Modeling of Peptides and Proteins</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(49).pdf" style="text-decoration:none;">Decoding Small Surface Codes with Feedforward Neural Networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(49).pdf" style="text-decoration:none;">Mismatch string kernels for discriminative protein classification</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(50).pdf" style="text-decoration:none;">A Separability-Entanglement Classifier via Machine Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(51).pdf" style="text-decoration:none;">Machine Learning Z<sub>2</sub> Quantum Spin Liquids with Quasi-particle Statistics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(52).pdf" style="text-decoration:none;">Construction of Hamiltonians by supervised learning of energy and entanglement spectra</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(51).pdf" style="text-decoration:none;">A structural alignment kernel for protein structures</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(52).pdf" style="text-decoration:none;">Predicting and understanding transcription factor interactions based on sequence level determinants of combinatorial control</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(53).pdf" style="text-decoration:none;">Machine Learning of Explicit Order Parameters: From the Ising Model to SU(2) Lattice Gauge Theory </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(53).pdf" style="text-decoration:none;">Fast and accurate predictions of protein stability changes upon mutations using statistical potentials and neural networks: PoPMuSiC-2.0 </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(54).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method: Continuous-Time Algorithm </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(54).pdf" style="text-decoration:none;">mCSM: predicting the effects of mutations in proteins using graph-based signatures </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(55).pdf" style="text-decoration:none;">Machine-learning-assisted correction of correlated qubit errors in a topological code</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(55).pdf" style="text-decoration:none;">ProFET: Feature engineering captures high-level protein functions</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(56).pdf" style="text-decoration:none;">Criticality and Deep Learning II: Momentum Renormalisation Group </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(56).pdf" style="text-decoration:none;">DeepSite: protein-binding site predictor using 3D-convolutional neural networks </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(57).pdf" style="text-decoration:none;">Active learning machine learns to create new quantum experiments </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(57).pdf" style="text-decoration:none;">DeepLoc: prediction of protein subcellular localization using deep learning </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(58).pdf" style="text-decoration:none;">Unsupervised Learning of Frustrated Classical Spin Models I: Principle Component Analysis</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(59).pdf" style="text-decoration:none;">Self-Learning Phase Boundaries by Active Contours</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(58).pdf" style="text-decoration:none;">DeepSol: a deep learning framework for sequence-based protein solubility prediction</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(59).pdf" style="text-decoration:none;">High precision protein functional site detection using 3D convolutional neural networks</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(60).pdf" style="text-decoration:none;">Inverse Ising inference by combining Ornstein-Zernike theory with deep learning </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(60).pdf" style="text-decoration:none;">Navigating the protein fitness landscape with Gaussian processes</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(61).pdf" style="text-decoration:none;">Deep neural networks for direct, featureless learning through observation: the case of 2d spin models</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(61).pdf" style="text-decoration:none;">Deep generative models for T cell receptor protein sequences</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(62).pdf" style="text-decoration:none;">Quantum phase recognition via unsupervised machine learning</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(62).pdf" style="text-decoration:none;">Generative Models for Graph-Based Protein Design</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(63).pdf" style="text-decoration:none;">Learning the Einstein-Podolsky-Rosen correlations on a Restricted Boltzmann Machine</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(63).pdf" style="text-decoration:none;">I-Mutant2.0: predicting stability changes upon mutation from the protein sequence or structure</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(64).pdf" style="text-decoration:none;">Quantum dynamics in transverse-field Ising models from classical networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(64).pdf" style="text-decoration:none;">AAindex: amino acid index database, progress report 2008</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(65).pdf" style="text-decoration:none;">Quantum machine learning: a classical perspective </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(65).pdf" style="text-decoration:none;">A deep learning framework for modeling structural features of RNA-binding protein targets </a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(66).pdf" style="text-decoration:none;">Solving the Bose-Hubbard model with machine learning</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(66).pdf" style="text-decoration:none;">Exploring sequence-function space of a poplar glutathione transferase using designed information-rich gene variants</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(67).PDF" style="text-decoration:none;">Spectral Dynamics of Learning Restricted Boltzmann Machines</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(67).PDF" style="text-decoration:none;">Sequence Motifs in MADS Transcription Factors Responsible for Specificity and Diversification of Protein-
+Protein Interaction</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(68).PDF" style="text-decoration:none;">Deep Learning the Ising Model Near Criticality</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(68).PDF" style="text-decoration:none;">PROTS-RF: A Robust Model for Predicting Mutation-Induced Protein Stability Changes</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(69).PDF" style="text-decoration:none;">Learning Fermionic Critical Points</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(69).PDF" style="text-decoration:none;">High Precision Prediction of Functional Sites in Protein Structures</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(70).PDF" style="text-decoration:none;">Extensive deep neural networks</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(70).PDF" style="text-decoration:none;">Structure Based Thermostability Prediction Models for Protein Single Point Mutations with Machine Learning Tools</a></b></li> 
   
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(71).PDF" style="text-decoration:none;">Machine Learning Topological Invariants with Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(71).PDF" style="text-decoration:none;">Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics</a></b></li>
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(72).pdf" style="text-decoration:none;">Phase Diagrams of Three-Dimensional Anderson and Quantum Percolation Models using Deep Three-Dimensional Convolutional
-Neural Network</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(72).pdf" style="text-decoration:none;">The spectrum kernel: a string kernel for SVM protein classification</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(73).pdf" style="text-decoration:none;">Machine Learning Spatial Geometry from Entanglement Features</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(74).pdf" style="text-decoration:none;">Unsupervised Generative Modeling Using Matrix Product States</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(75).pdf" style="text-decoration:none;">Identifying Product Order with Restricted Boltzmann Machines</a></b></li>                        
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(76).pdf" style="text-decoration:none;">Machine learning and artificial intelligence in the quantum domain</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(73).pdf" style="text-decoration:none;">Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(74).pdf" style="text-decoration:none;">ProLanGO: Protein Function Prediction Using Neural Machine Translation Based on a Recurrent Neural Network</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(75).pdf" style="text-decoration:none;">Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning</a></b></li>                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(76).pdf" style="text-decoration:none;">ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(77).pdf" style="text-decoration:none;">Learning Disordered Topological Phases by Statistical Recovery of Symmetry</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(77).pdf" style="text-decoration:none;">Application of fourier transform and proteochemometrics principles to protein engineering</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(78).pdf" style="text-decoration:none;">Restricted-Boltzmann-Machine Learning for Solving Strongly Correlated Quantum Systems</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(79).pdf" style="text-decoration:none;">Quantum Autoencoders via Quantum Adders with Genetic Algorithms</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(78).pdf" style="text-decoration:none;">P2Rank: machine learning based tool for rapid and accurate prediction of ligand binding sites from protein structure</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(79).pdf" style="text-decoration:none;">Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(80).pdf" style="text-decoration:none;">Generalized Quantum Reinforcement Learning with Quantum Technologies</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(80).pdf" style="text-decoration:none;">Deciphering protein evolution and fitness landscapes with latent space models</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(82).pdf" style="text-decoration:none;">Enhanced Quantum Synchronization via Quantum Machine Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(81).pdf" style="text-decoration:none;">Protein Secondary Structure Prediction Based on Data Partition and Semi-Random Subspace Method</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(82).pdf" style="text-decoration:none;">Design of metalloproteins and novel protein folds using variational autoencoders</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(83).pdf" style="text-decoration:none;">Learning hard quantum distributions with variational autoencoders</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(83).pdf" style="text-decoration:none;">A machine learning approach for reliable prediction of amino acid interactions and its application in the directed evolution of enantioselective enzymes</a></b></li>
+ 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(84).pdf" style="text-decoration:none;">DESTINI: A deep-learning approach to contact-driven protein structure prediction</a></b></li> 
+ 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(85).pdf" style="text-decoration:none;">DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks</a></b></li>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
